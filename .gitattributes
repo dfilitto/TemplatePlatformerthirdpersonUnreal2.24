@@ -1,0 +1,4 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.UMAP filter=lfs diff=lfs merge=lfs -text
+*.UASSET filter=lfs diff=lfs merge=lfs -text
+*.UPROJECT filter=lfs diff=lfs merge=lfs -text
